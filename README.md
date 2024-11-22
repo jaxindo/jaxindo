@@ -1,6 +1,8 @@
 # Jaxindo Digital Agency Official GitHub
 
-![Jaxindo Logo](https://www.jaxindo.com/favicon.png)
+<p align="center">
+  <img src="https://www.jaxindo.com/favicon.png" alt="Jaxindo Logo" />
+</p>
 
 ## Hi there 👋
 
